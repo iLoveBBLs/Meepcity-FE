@@ -1,7 +1,3 @@
-
-
 # MEEPCITY FE
- by synolope
+ by Asinine
 
-## Changelog
-added krnl support
